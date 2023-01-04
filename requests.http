@@ -1,0 +1,6 @@
+POST http://localhost:3000/messages
+Content-Type: application/json
+
+{
+  "message": "Who is overment?"
+}
